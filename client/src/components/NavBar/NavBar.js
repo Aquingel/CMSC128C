@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import NCSS from './NavBar.module.css'
-import nav_bar_logo from '../../assets/logo-textless.png'
+import nav_bar_logo from '../../assets/company-logo.png'
 import { NavLink } from 'react-router-dom'
 import { GiHamburgerMenu } from 'react-icons/gi'
 

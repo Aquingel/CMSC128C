@@ -22,9 +22,12 @@
   font-size: 3em;
   margin-bottom: 0.2em;
   font-weight: 700;
-  color: #EE0017;
-  font-style: italic;
-  /*  -webkit-text-stroke: 0px #EE0017; #ffca84 */
+  color: #EE0017; ;
+  
+   
+  /*  font-style: italic;  
+      -webkit-text-stroke: 2px #EE0017; #EE0017 
+  */
 }
 
 /* <p className={MBCSS.name}>CODERCADEMY</p> */
@@ -33,6 +36,11 @@
   font-weight: 900;
   font-size: 4.5em;
   line-height: .9em;
+  color: #ffca84 ;
+  -webkit-text-stroke: 3px #EE0017;
+   
+  /*  font-style: italic;  
+       #EE0017 */
 }
 
 .since {
